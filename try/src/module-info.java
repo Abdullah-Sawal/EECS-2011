@@ -1,0 +1,2 @@
+module try1 {
+}
